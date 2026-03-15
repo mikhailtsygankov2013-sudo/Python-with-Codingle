@@ -1,0 +1,10 @@
+import time #module
+print("Hello")
+time.sleep(2)
+print("Hi")
+time.sleep(2)
+print("How was your day? Planning something on the weekend?")
+time.sleep(2)
+print("I am planning to go hiking with my friends. What about you?")
+time.sleep(2)
+print("That sounds fun! I am thinking of going to the beach.")
