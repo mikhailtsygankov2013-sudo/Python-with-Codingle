@@ -1,0 +1,11 @@
+name=input("Enter your name: ")
+age=int(input("Enter your age: "))
+sport=input("Enter your favorite sport: ")
+grade=int(input("Enter your grade: "))
+marks=float(input("Enter your marks out of 100: "))
+
+print("Name =",name)
+print("Age =",age)
+print("Favorite sport =",sport)
+print("Grade =",grade)
+print("Marks =",marks)
