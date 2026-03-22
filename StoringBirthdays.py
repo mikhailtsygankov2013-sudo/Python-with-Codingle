@@ -1,0 +1,11 @@
+friend1 = input("What is your birthday? ")
+friend2 = input("What is your birthday? ")
+friend3 = input("What is your birthday? ")
+friend4 = input("What is your birthday? ")
+friend5 = input("What is your birthday? ")
+
+print(friend1)
+print(friend2)
+print(friend3)
+print(friend4)
+print(friend5)
